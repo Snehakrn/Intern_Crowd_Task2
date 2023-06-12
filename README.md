@@ -28,7 +28,7 @@ Feel free to explore and make changes to suit your project's specific needs.
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
 
-📧 Contact
+## 📧 Contact
 
 If you have any questions, suggestions, or feedback, please contact at karnsneha2003@gmail.com.
 
