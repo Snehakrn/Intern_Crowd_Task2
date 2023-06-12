@@ -3,8 +3,6 @@
 
 This is a simple login/signup page template created using HTML, CSS, and JavaScript. It provides a basic user interface for users to log in or sign up to access a web application or platform. 
 
-!
-
 🚀 Getting Started
 
 These instructions will help you set up the login/signup page template on your local machine for development and testing purposes.
