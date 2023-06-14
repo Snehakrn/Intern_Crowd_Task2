@@ -1,4 +1,3 @@
-# Intern_Crowd_Task2
 ## Login/Signup Page 🔐👥
 
 This is a simple login/signup page template created using HTML, CSS, and JavaScript. It provides a basic user interface for users to log in or sign up to access a web application or platform. 
